@@ -23,4 +23,19 @@ percent wise Good loan and Bad loan application
 
 - <a href="https://github.com/shrikrushna1133/Loan-Analysis/blob/main/Loan_Summery.png">Loan_Summery</a>
 
+Home Ownership wise find out total application. Home Ownership indicates the borrower's housing status. It offers insights into financial stability.
+Homeowners may have lower default rates.Employee Length provides insights into the borrower's employment stability. Stable employment often translates to a lower default risk.
+How much loan application are verified are not verified. Verification Status indicates whether the borrower's financial information has been verified. It assesses data accuracy.
+
+- <a href="https://github.com/shrikrushna1133/Loan-Analysis/blob/main/Loan_Overview.png">Loan_Overview</a>
+
+Shows the detail loan analysis like month, purpose, term and home ownership wise loan application, funded application, received application and interest rate.
+Filter the data by different slicer like month, purpose, term and home ownership wise
+
+- <a href="https://github.com/shrikrushna1133/Loan-Analysis/blob/main/Loan_Details.png">Loan_Details</a>
+
+ Shows the no. of application by individual state
+
+ - <a href="https://github.com/shrikrushna1133/Loan-Analysis/blob/main/Loan%20Analysis%20by%20State.png">State wise analysis</a>
+
  
