@@ -15,9 +15,7 @@ Dataset
 KPI,s for Loan Analysis
 
 Total loan application (total no. of customer applied for loan)
-Total funded amount
-Total received amount
-Average interest rate and average DTI
+Total funded amount, Total received amount, Average interest rate and average DTI
 Count Good loan and Bad loan application
 percent wise Good loan and Bad loan application
 
